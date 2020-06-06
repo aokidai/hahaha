@@ -1,0 +1,9 @@
+D:\Aoki\QL_SinhVien\QL_SinhVien\bin\Debug\QL_SinhVien.exe.config
+D:\Aoki\QL_SinhVien\QL_SinhVien\bin\Debug\QL_SinhVien.exe
+D:\Aoki\QL_SinhVien\QL_SinhVien\bin\Debug\QL_SinhVien.pdb
+D:\Aoki\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.csprojResolveAssemblyReference.cache
+D:\Aoki\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.Form1.resources
+D:\Aoki\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.Properties.Resources.resources
+D:\Aoki\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.csproj.GenerateResource.Cache
+D:\Aoki\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.exe
+D:\Aoki\QL_SinhVien\QL_SinhVien\obj\Debug\QL_SinhVien.pdb
