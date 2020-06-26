@@ -45,6 +45,30 @@ begin
 	update Lop set SiSo = SiSo + 1 where MaLop = @nMaLop
 end
 
+--Hien thi tat ca sinh vien
+create proc allSV
+as
+	select * from SinhVien
+
+--Hien thi tat ca khoa
+create proc allKhoa
+as
+	select * from Khoa
+
+--Hien thi tat ca lop
+create proc allLop
+as
+	select * from Lop
+
+--Hien thi tat ca giang vien
+create proc allGV
+as
+	select * from GIAOVIEN
+
+--Hien thi tat ca hoc phan
+create proc allHP
+as
+	select * from HOCPHAN
 -----------------------------------------------------------------------------------------------------------------------------
 --FUNTION
 --Diem trung binh cua sinh vien theo ma sinh vien
